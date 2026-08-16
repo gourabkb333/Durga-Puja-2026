@@ -7,9 +7,9 @@ const SITE_CONFIG = {
 
   // --- Admin card (shown when the admin icon is clicked) ---
   admin: {
-    name: "Your Name",
+    name: "Gourab Burman",
     photo: "assets/admin-photo.jpg", // put your photo in /assets and rename it, or change this path
-    linkedin: "https://www.linkedin.com/in/your-profile/"
+    linkedin: "https://www.linkedin.com/in/gourab-kumar-burman-473b7a139?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
   },
 
   // --- Countdown target: Maha Shashthi / Puja start date ---
@@ -20,7 +20,7 @@ const SITE_CONFIG = {
   youtube: {
     // Shown when the YouTube icon (top right) is tapped, and inside the admin card.
     // Point this at your channel or any playlist you want people to browse further.
-    playlistUrl: "https://www.youtube.com/playlist?list=PLdv3eXxiZj-cXXXXXXXXXXXXXXXXXXXXXXXXX"
+    playlistUrl: "https://youtube.com/playlist?list=PLdv3eXxiZj-c&si=3IkbUBYQoRsyZ2E6"
   },
 
   // --- Songs (manually curated — no live YouTube playlist sync) ---
@@ -31,19 +31,20 @@ const SITE_CONFIG = {
   // Pick videos you've confirmed play fine when embedded elsewhere.
   songs: {
     mahalaya: [
-      { id: "PASTE_VIDEO_ID_HERE", title: "মহিষাসুরমর্দিনী — বীরেন্দ্রকৃষ্ণ ভদ্র" }
+      { id: "YQyo8QeoYhc&list=RDYQyo8QeoYhc&start_radio=1", title: "মহিষাসুরমর্দিনী — বীরেন্দ্রকৃষ্ণ ভদ্র" }
       // Add more like this:
       // { id: "ANOTHER_VIDEO_ID", title: "Song title" },
     ],
     pujorGaan: [
-      { id: "PASTE_VIDEO_ID_HERE", title: "আগমনী গান" }
+      { id: "MsqpjM09MrY&list=RDMsqpjM09MrY&start_radio=1", title: "আগমনী গান" }
+      
       // { id: "ANOTHER_VIDEO_ID", title: "Song title" },
     ]
   },
 
   // --- Visitor counter (free, no signup — powered by CountAPI) ---
   counter: {
-    namespace: "maa-aschhe-site", // change to something unique to you, e.g. your name + year
+    namespace: "maa-aschhe-site-by-Gourab", // change to something unique to you, e.g. your name + year
     key: "visits"
   },
 
