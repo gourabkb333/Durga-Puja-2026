@@ -7,9 +7,9 @@ const SITE_CONFIG = {
 
   // --- Admin card (shown when the admin icon is clicked) ---
   admin: {
-    name: "Your Name",
+    name: "Gourab Burman",
     photo: "assets/admin-photo.jpg", // put your photo in /assets and rename it, or change this path
-    linkedin: "https://www.linkedin.com/in/your-profile/"
+    linkedin: "https://www.linkedin.com/in/gourab-kumar-burman-473b7a139?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
   },
 
   // --- Countdown target: Maha Shashthi / Puja start date ---
@@ -20,15 +20,15 @@ const SITE_CONFIG = {
   youtube: {
     // Your playlist link, e.g. https://www.youtube.com/playlist?list=PLxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     // Paste the FULL id after "list=" below (playlist IDs are usually 34 characters, starting with PL).
-    playlistId: "PLdv3eXxiZj-cXXXXXXXXXXXXXXXXXXXXXXXXX",
-    playlistUrl: "https://www.youtube.com/playlist?list=PLdv3eXxiZj-cXXXXXXXXXXXXXXXXXXXXXXXXX",
+    playlistId: "PLdv3eXxiZj-c&si=wCv6NnNaPPyvIT5J",
+    playlistUrl: "https://youtube.com/playlist?list=PLdv3eXxiZj-c&si=wCv6NnNaPPyvIT5J",
     // Link shown for "manage this playlist" inside the admin card
     studioManageUrl: "https://studio.youtube.com/playlists"
   },
 
   // --- Visitor counter (free, no signup — powered by CountAPI) ---
   counter: {
-    namespace: "maa-aschhe-site", // change to something unique to you, e.g. your name + year
+    namespace: "maa-asche-by-Gourab", // change to something unique to you, e.g. your name + year
     key: "visits"
   },
 
