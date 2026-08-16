@@ -7,9 +7,9 @@ const SITE_CONFIG = {
 
   // --- Admin card (shown when the admin icon is clicked) ---
   admin: {
-    name: "Your Name",
-    photo: "assets/admin-photo.jpg", // put your photo in /assets and rename it, or change this path
-    linkedin: "https://www.linkedin.com/in/your-profile/"
+    name: "Gourab Burman",
+    photo: "assets/admin-photo.jpeg", // put your photo in /assets and rename it, or change this path
+    linkedin: "https://www.linkedin.com/in/gourab-kumar-burman-473b7a139?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
   },
 
   // --- Countdown target: Maha Shashthi / Puja start date ---
@@ -36,7 +36,7 @@ const SITE_CONFIG = {
 
   // --- Visitor counter (free, no signup — powered by CountAPI) ---
   counter: {
-    namespace: "maa-aschhe-site", // change to something unique to you, e.g. your name + year
+    namespace: "maa-aschhe-site-by-g", // change to something unique to you, e.g. your name + year
     key: "visits"
   },
 
