@@ -20,8 +20,8 @@ const SITE_CONFIG = {
   youtube: {
     // Your playlist link, e.g. https://www.youtube.com/playlist?list=PLxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     // Paste the FULL id after "list=" below (playlist IDs are usually 34 characters, starting with PL).
-    playlistId: "PLdv3eXxiZj-c&si=wCv6NnNaPPyvIT5J",
-    playlistUrl: "https://youtube.com/playlist?list=PLdv3eXxiZj-c&si=wCv6NnNaPPyvIT5J",
+    playlistId: "PLdv3eXxiZj-c&si=9D2JoHCQuMWbDTgX",
+    playlistUrl: "https://youtube.com/playlist?list=PLdv3eXxiZj-c&si=9D2JoHCQuMWbDTgX",
     // Link shown for "manage this playlist" inside the admin card
     studioManageUrl: "https://studio.youtube.com/playlists"
   },
