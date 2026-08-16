@@ -7,9 +7,9 @@ const SITE_CONFIG = {
 
   // --- Admin card (shown when the admin icon is clicked) ---
   admin: {
-    name: "Your Name",
+    name: "Gourab Burman",
     photo: "assets/admin-photo.jpg", // put your photo in /assets and rename it, or change this path
-    linkedin: "https://www.linkedin.com/in/your-profile/"
+    linkedin: "https://www.linkedin.com/in/gourab-kumar-burman-473b7a139/"
   },
 
   // --- Countdown target: Maha Shashthi / Puja start date ---
