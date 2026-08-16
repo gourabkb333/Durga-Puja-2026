@@ -149,8 +149,8 @@ body {
 .dhak-btn {
   position: relative;
   margin-top: 2.4rem;
-  width: 128px;
-  height: 128px;
+  width: 45px;
+  height: 45px;
   border-radius: 50%;
   border: none;
   background: radial-gradient(circle at 35% 30%, #E8C86B, var(--kansha) 55%, #9c7412 100%);
