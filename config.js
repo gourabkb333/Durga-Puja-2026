@@ -31,12 +31,12 @@ const SITE_CONFIG = {
   // Pick videos you've confirmed play fine when embedded elsewhere.
   songs: {
     mahalaya: [
-      { id: "YQyo8QeoYhc&list=RDYQyo8QeoYhc&start_radio=1", title: "মহিষাসুরমর্দিনী — বীরেন্দ্রকৃষ্ণ ভদ্র" }
+      { id: "A-nMCu2y_PM&list=RDA-nMCu2y_PM&start_radio=1&pp=ygUIbW9oYWxheWGgBwE%3D", title: "মহিষাসুরমর্দিনী — বীরেন্দ্রকৃষ্ণ ভদ্র" }
       // Add more like this:
       // { id: "ANOTHER_VIDEO_ID", title: "Song title" },
     ],
     pujorGaan: [
-      { id: "MsqpjM09MrY&list=RDMsqpjM09MrY&start_radio=1", title: "আগমনী গান" }
+      { id: "6LuRHIXNF_A&list=RD6LuRHIXNF_A&start_radio=1", title: "শুভ শুভ" }
       
       // { id: "ANOTHER_VIDEO_ID", title: "Song title" },
     ]
