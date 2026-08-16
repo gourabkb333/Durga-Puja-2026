@@ -118,7 +118,6 @@ function setupAdminModal() {
   document.getElementById('adminPhoto').alt = SITE_CONFIG.admin.name;
   document.getElementById('adminName').textContent = SITE_CONFIG.admin.name;
   document.getElementById('adminLinkedin').href = SITE_CONFIG.admin.linkedin;
-  document.getElementById('adminManagePlaylist').href = SITE_CONFIG.youtube.playlistUrl;
 
   function open() { modal.hidden = false; closeBtn.focus(); }
   function close() { modal.hidden = true; openBtn.focus(); }
@@ -137,8 +136,8 @@ let currentIndex = 0;
 function onYouTubeIframeAPIReady() {
   const firstTrack = getTrack(currentSection, 0);
   ytPlayer = new YT.Player('ytPlayer', {
-    height: '0',
-    width: '0',
+    height: '3',
+    width: '3',
     videoId: firstTrack ? firstTrack.id : undefined,
     playerVars: { autoplay: 0 },
     events: {
