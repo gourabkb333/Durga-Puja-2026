@@ -118,7 +118,6 @@ function setupAdminModal() {
   document.getElementById('adminPhoto').alt = SITE_CONFIG.admin.name;
   document.getElementById('adminName').textContent = SITE_CONFIG.admin.name;
   document.getElementById('adminLinkedin').href = SITE_CONFIG.admin.linkedin;
-  document.getElementById('adminManagePlaylist').href = SITE_CONFIG.youtube.playlistUrl;
 
   function open() { modal.hidden = false; closeBtn.focus(); }
   function close() { modal.hidden = true; openBtn.focus(); }
